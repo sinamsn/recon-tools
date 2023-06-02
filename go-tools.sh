@@ -53,6 +53,7 @@ go install -v github.com/six2dez/ipcdn@latest
 go install github.com/utkusen/socialhunter@latest
 go install github.com/tomnomnom/unfurl@latest
 go install github.com/dhn/udon@latest
+go install github.com/ImAyrix/cut-cdn@latest
 go install github.com/xhzeem/paramix@latest
 GO111MODULE=on go install -v github.com/lc/subjs@latest
 GO111MODULE=on go install github.com/jaeles-project/gospider@latest
