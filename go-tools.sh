@@ -5,6 +5,7 @@ go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
 go install -v github.com/projectdiscovery/cdncheck/cmd/cdncheck@latest
+go install github.com/edoardottt/favirecon/cmd/favirecon@latest
 go install github.com/dhn/udon@latest
 go install github.com/edoardottt/csprecon/cmd/csprecon@latest
 go install -v github.com/projectdiscovery/uncover/cmd/uncover@latest
