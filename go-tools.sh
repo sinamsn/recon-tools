@@ -35,6 +35,7 @@ go install -v github.com/tomnomnom/concurl@latest
 go install -v  github.com/tomnomnom/hacks/filter-resolved@latest
 go install github.com/lc/gau/v2/cmd/gau@latest
 go install github.com/bp0lr/gauplus@latest
+go install -v github.com/kankburhan/dofind/cmd/dofind@latest
 go install -v  github.com/Emoe/kxss@latest
 go install github.com/KathanP19/Gxss@latest
 go install -v github.com/tomnomnom/gf@latest\n
