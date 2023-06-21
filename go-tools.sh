@@ -8,6 +8,7 @@ go install github.com/j3ssie/str-replace@latest
 go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
 go install -v github.com/bp0lr/dmut@latest
 go install github.com/Josue87/gotator@latest
+go install github.com/Alikhalkhali/active-ip@latest
 go install -v github.com/projectdiscovery/cdncheck/cmd/cdncheck@latest
 go install github.com/edoardottt/favirecon/cmd/favirecon@latest
 go install github.com/vodafon/waybackrobots@latest
