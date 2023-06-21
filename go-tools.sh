@@ -10,6 +10,7 @@ go install -v github.com/bp0lr/dmut@latest
 go install github.com/Josue87/gotator@latest
 go install -v github.com/projectdiscovery/cdncheck/cmd/cdncheck@latest
 go install github.com/edoardottt/favirecon/cmd/favirecon@latest
+go install github.com/vodafon/waybackrobots@latest
 go install github.com/dhn/udon@latest
 go install github.com/edoardottt/csprecon/cmd/csprecon@latest
 go install -v github.com/projectdiscovery/uncover/cmd/uncover@latest
