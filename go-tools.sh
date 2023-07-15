@@ -6,6 +6,7 @@ go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install github.com/subfinder/goaltdns@latest
 go install github.com/j3ssie/str-replace@latest
 go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
+go install -v github.com/musana/fuzzuli@latest
 go install -v github.com/bp0lr/dmut@latest
 go install github.com/Josue87/gotator@latest
 go install github.com/Alikhalkhali/active-ip@latest
