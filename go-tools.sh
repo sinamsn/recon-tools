@@ -1,4 +1,4 @@
-go install -v github.com/tomnomnom/assetfinder
+go install -v github.com/tomnomnom/assetfinder@latest
 go install -v github.com/tomnomnom/assetfinder@latest
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
