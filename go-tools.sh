@@ -5,6 +5,7 @@ go install github.com/subfinder/goaltdns@latest
 go install github.com/j3ssie/str-replace@latest
 go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
 go install -v github.com/musana/fuzzuli@latest
+go install -v github.com/projectdiscovery/useragent/cmd/ua@latest
 go install github.com/projectdiscovery/cvemap/cmd/cvemap@latest
 go install github.com/assetnote/surf/cmd/surf@latest
 go install -v github.com/bp0lr/dmut@latest
