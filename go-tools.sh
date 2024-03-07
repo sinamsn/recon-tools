@@ -1,7 +1,6 @@
 go install -v github.com/tomnomnom/assetfinder@latest
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
-go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install github.com/subfinder/goaltdns@latest
 go install github.com/j3ssie/str-replace@latest
 go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
