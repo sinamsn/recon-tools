@@ -34,6 +34,7 @@ go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install -v github.com/tomnomnom/fff@latest
 go install github.com/ffuf/ffuf/v2@latest
 go install github.com/tomnomnom/qsreplace@latest
+go install github.com/sw33tLie/sns@latest
 go install github.com/tomnomnom/meg@latest
 go install -v github.com/tomnomnom/anew@latest
 go install -v github.com/tomnomnom/dnsgrep@latest
